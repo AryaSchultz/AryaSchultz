@@ -36,4 +36,4 @@ Currently improving my automation skills with Playwright and JavaScript.
 
 🔹 QA Portfolio
 
-📫 LinkedIn: <www.linkedin.com/in/aryadne-schultz-8153b565>
+📫 LinkedIn: www.linkedin.com/in/aryadne-schultz-8153b565
