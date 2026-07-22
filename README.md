@@ -10,7 +10,7 @@ QA Engineer with 5+ years of experience in Software Testing.
 
 🔹 API Testing
 
-🔹 Test Automation (Plagit push -u origin mainywright)
+🔹 Test Automation (Playwright)
 
 🔹 SQL
 
