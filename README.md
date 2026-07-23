@@ -30,6 +30,8 @@ Currently improving my automation skills with Playwright and JavaScript.
 
 ## Featured Projects
 
-🚧 Coming soon
+Playwright Tests
+
+End-to-end automation project developed with Playwright and TypeScript, covering positive and negative login scenarios using best practices such as environment variables and structured test documentation.
 
 📫 LinkedIn: www.linkedin.com/in/aryadne-schultz-8153b565
